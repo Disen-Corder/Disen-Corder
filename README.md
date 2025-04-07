@@ -59,3 +59,4 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/disen-corder/disen-corder/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
+![snake gif](https://raw.githubusercontent.com/disen-corder/disen-corder/output/github-contribution-grid-snake.svg)
