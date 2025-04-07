@@ -18,7 +18,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/disen-liyanage/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" />
-  </a>
+  </a>  &nbsp;
   <a href="https://www.youtube.com/@technotaprobane1920" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="40" height="40" />
   </a>
